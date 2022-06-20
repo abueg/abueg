@@ -1,6 +1,6 @@
 bioinformatics!!! 💻🧬
 
-🎨: icon from [@frogfunguy](www.instagram.com/frogfunguy)!
+🎨: icon from [@frogfunguy](http://www.instagram.com/frogfunguy)!
 
 <!--
 **abueg/abueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
