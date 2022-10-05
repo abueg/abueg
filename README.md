@@ -4,6 +4,8 @@ more information: https://abueg.github.io/
 
 🎨: icon by [Will Colpoys](https://www.willcolpoys.com/) (instagram: [frogfunguy](https://www.instagram.com/frogfunguy/))
 
+![poppy](https://user-images.githubusercontent.com/48773001/194126204-9eec8811-c4f7-42b4-a4b1-a11a26bda5fd.png)
+
 <!--
 **abueg/abueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
