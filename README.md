@@ -1,5 +1,5 @@
-bioinformatics!!! 💻🧬
+🧬 bioinformatics → 💻 sysadmin
 
 more information: https://abueg.github.io/
 
-🎨: icon by [Will Colpoys](https://www.willcolpoys.com/) (instagram: [frogfunguy](https://www.instagram.com/frogfunguy/))
+🎨: icon by [Will Colpoys](https://bsky.app/profile/frogfunguy.bsky.social) (instagram: [frogfunguy](https://www.instagram.com/frogfunguy/))
